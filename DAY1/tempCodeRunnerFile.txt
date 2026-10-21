@@ -1,0 +1,10 @@
+
+    {
+        printf("leap year");
+
+    }
+    else{
+        printf("not leap year");
+    }
+
+}

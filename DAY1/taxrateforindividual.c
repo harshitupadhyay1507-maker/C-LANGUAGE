@@ -10,8 +10,10 @@ tax =income*(10/100);
     }
     else if(income<=100000){
         tax=income*(30/100);
+    }
         else{
             tax = income*(40/100);
         }
-    }
+    
+    return 0;
 }

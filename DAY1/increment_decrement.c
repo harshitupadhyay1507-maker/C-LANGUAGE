@@ -6,4 +6,5 @@ int main(){
     i = i+5; //10
     printf("the value of i is %d\n",i);
     printf("the value of i++ is %d\n",i++);
+    return 0;
 }

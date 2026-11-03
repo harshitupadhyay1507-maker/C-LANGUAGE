@@ -11,7 +11,7 @@ int main(){
     if(tp>=1000){
         printf(" total amount :%f",fa1);
     }
-    else if(tp=<500){
+    else if(tp<=500){
         printf(" total amount :%f",fa2);
     }
     else {
